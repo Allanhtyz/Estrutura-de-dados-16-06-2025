@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace CodeMaker
+namespace Pluton
 {
     class Program
     {
